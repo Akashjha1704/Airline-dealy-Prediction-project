@@ -178,11 +178,6 @@ spark-submit \
 
 ---
 
-## 👤 Author
-
-**[Your Name]**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
 
 ---
 
